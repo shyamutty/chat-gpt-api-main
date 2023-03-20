@@ -1,4 +1,6 @@
-# chat-gpt-api-main
-npm init -y \n
-npm i dotenv openai \n
-npm run dev \n
+# chat-gpt-api-main </br>
+npm init -y </br>
+npm i dotenv openai </br>
+npm run dev </br>
+
+
